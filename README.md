@@ -26,7 +26,6 @@
 - [Microsoft Excel](#microsoft-excel)
 - [Python](#python)
 - [SQL](#sql)
-- [Spss](#spss)
 - [Tableau](#tableau)
 
 
@@ -36,7 +35,7 @@
 
 | Project Link | Completion Date | Tools | Project Description | 
 |---|---|---|---|
-| 🤑 [Data Analysis of Customer Buying Habits at CardioGood Fitness](https://github.com/Mabrar92/Customers_Profile_Analysis#readme) | Sep 2023 | SPSS | As a marketing enthusiast, I explored customer data of CardioGood Fitness Company and discovered trends in the buying behavior and characteristics of customers. I then presented my actional insights and recommendations to the marketing team which can lead to business success.|
+| 🤑 [Insurance fraud Detection with income prediction](https://github.com/shekharj21/Insurance-Fraud-detection-with-Income-Prediction) | Sep 2023 | Python, Machine learning | It was My final year preojct when i was persuing Msc in data Analytics from Aston university. i got a chance to work with industry professionals to implement this project. We first worked on a Ml model to find out fraudulent claims made by the customer and in th second part we focused on finding the income of customers to be targeted by the company for promotional offers.|
 
 
 ***
@@ -72,19 +71,12 @@
 
 ***
 
-# Spss
-| Project Link | Completion Date | Project Description | 
-|---|---|---|
-|🤑 [Data Analysis of Customer Buying Habits at CardioGood Fitness](https://github.com/Mabrar92/Customers_Profile_Analysis#readme)|Sep 2023| As a marketing enthusiast, I explored customer data of CardioGood Fitness Company and discovered trends in the buying behavior and characteristics of customers. I then presented my actional insights and recommendations to the marketing team which can lead to business success.|
-| 💻 [Project] | Soon | Projects are underway |
-
-***
 
 # Tableau
 
 | Project Link | Project Description | Dashboard Link |
 |---|---|---|
-|[Video Game Sales Analysis: 1994-2010](https://github.com/shekharj21/PWC-Power-BI-Project) |I performed thorough competitor analysis on video game sales data from 1994 to 2010. The resulting dashboard provides insights into Playstation,Xbox and Nintendo sales trends, platform popularity, and top games/genres.|[Tableau Dashboard](https://github.com/shekharj21/PWC-Power-BI-Project)|
+|[PWC Power BI Project](https://github.com/shekharj21/PWC-Power-BI-Project) |I performed thorough competitor analysis on video game sales data from 1994 to 2010. The resulting dashboard provides insights into Playstation,Xbox and Nintendo sales trends, platform popularity, and top games/genres.|[Tableau Dashboard](https://github.com/shekharj21/PWC-Power-BI-Project)|
 
 ***
 ## Acknowledgment
