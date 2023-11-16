@@ -35,9 +35,10 @@
 
 | Project Link | Completion Date | Tools | Project Description | 
 |---|---|---|---|
+| 🤑 [Insurance fraud Detection with income prediction](https://github.com/shekharj21/Insurance-Fraud-detection-with-Income-Prediction) | jan 2022 - jan 2023 | Python, Machine learning | It was My final year projct when i was persuing Msc in data Analytics from Aston university. i got a chance to work with industry professionals to implement this project. We first worked on a Ml model to find out fraudulent claims made by the customer and in the second part we focused on finding the income of customers to be targeted by the company for promotional offers.|
 | 🤑 [Google Play Store Apps Rating Prediction](https://github.com/shekharj21/Google_play_Store_Ratings_Prediction) | June 2023 | Python, Machine learning | This Project includes a detailed jupyter notebook with explanation of Google play store apps rating Prediction. We used Both regression and Classifiction methods to get the best outcome using trial and error method.|
 | 🤑 [NLP - Cutomer Review Analysis from a large dataset](https://github.com/shekharj21/NLP_Clothing-product_Review) | April 2023 | Python, Machine learning |We have used natural Language Processing to implement the sentiment analysis. We have Searched for top words from customer reviews to understand the sentiment of the review posted by the customer.|
-| 🤑 [Insurance fraud Detection with income prediction](https://github.com/shekharj21/Insurance-Fraud-detection-with-Income-Prediction) | jan 2022 - jan 2023 | Python, Machine learning | It was My final year projct when i was persuing Msc in data Analytics from Aston university. i got a chance to work with industry professionals to implement this project. We first worked on a Ml model to find out fraudulent claims made by the customer and in the second part we focused on finding the income of customers to be targeted by the company for promotional offers.|
+
 
 
 ***
