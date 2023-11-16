@@ -74,7 +74,7 @@
 ***
 
 
-# Tableau
+# POWER BI
 
 | Project Link | Project Description | Dashboard Link |
 |---|---|---|
