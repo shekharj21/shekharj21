@@ -59,8 +59,8 @@
 | Project Link | Area | Project Description | Libraries |    
 |---|---|---|---|
 | 👩🏻‍💻 [Real life customer Churn Reason Detection & Solution](https://github.com/Mabrar92/Python-CS50-Solutions) | Programming | This repo contains the solution to the problem sets in [Harvardx CS50P Introduction to Programming with Python](https://www.edx.org/course/cs50s-introduction-to-programming-with-python). | - | 
-| 🧹 [Data Cleaning in Python](https://github.com/Mabrar92/data-cleaning-in-python-essential-training-3086536) | Data Preprocessing & Data Cleaning | As a part of LinkedIn Course of data cleaning in Python essential training, I explored various methods and problems related to data cleaning such as data validation, missing values, duplicates etc. | Pandas |   
-| 🏨 [Hotel Booking Cancelation Analysis ](https://github.com/Mabrar92/Data-Analysis-Projects-Portfolio/blob/main/Hotel%20Cancellation%20-%20Data%20Analysis%20-%20End%20to%20End%20Project.ipynb) | Data Wrangling & EDA | Analysis of Hotel Booking data to explore the major reason behind the increasing trend in booking cancelation across its two franchises. | Pandas, Matplotlib |   
+| 🧹 [Israel vs palestine Fatilities from year 2000-2023](https://github.com/shekharj21/IsraelVsPalestine_Fatilities_from2000-2023) | Data Preprocessing & Data Cleaning, EDA | This jupyter notebook shows the fatilities recorded of the conflicts between israel and Palestine from year 2000-2023. i have represented all types of distribution such as gender, nationality, age etc. | Pandas,numpy, scikit,matplotlib |   
+
 
 
 ***
