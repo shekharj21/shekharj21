@@ -6,6 +6,8 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/shekharj21](https://github.com/shekharj21)
 
+- See My Personal Portfolio Website at [https://jogawadeshekhar123.wixsite.com/my-site-1](https://jogawadeshekhar123.wixsite.com/my-site-1)
+
 - 💬 Ask me about **Python, Machine Learning, SQL, Power BI, Microsoft Excel Etc**
 
 - 📫 How to reach me **jogawade.shekhar123@gmail.com**
