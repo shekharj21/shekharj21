@@ -69,7 +69,7 @@
 
 | Project Link | Area of Analysis | Project Description | 
 |---|---|---|
-| 💻 [Intro to SQL](https://www.kaggle.com/learn/intro-to-sql) | SQL queries for Complex Big Query datasets | Developed SQL queries for Google BigQuery datasets to support real-world data problems |
+| 💻 [SQL - Music Store Data Analysis](https://github.com/shekharj21/SQL_Music_Data_Analysis) | We have Answered the simple/advanced questions in this project. Question and answers are available in music.Sql file. |
 
 ***
 
