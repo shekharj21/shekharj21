@@ -69,7 +69,7 @@
 
 | Project Link | Area of Analysis | Project Description | 
 |---|---|---|
-| 💻 [SQL - Music Store Data Analysis](https://github.com/shekharj21/SQL_Music_Data_Analysis) | We have Answered the simple/advanced questions in this project. Question and answers are available in music.Sql file. |
+| 💻 [SQL - Music Store Data Analysis](https://github.com/shekharj21/SQL_Music_Data_Analysis) | We have Answered the simple/advanced questions in this project. Question and answers are available in music.Sql file. | PostgreSQL , PH Admin|
 
 ***
 
