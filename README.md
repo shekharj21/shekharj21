@@ -1,4 +1,4 @@
-![logo](https://github.com/shekharj21/shekharj21/blob/main/img1.png)
+![logo](https://images.unsplash.com/photo-1488229297570-58520851e868?q=80&w=2069&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
 <h1 align="center">Hi 👋, I'm Shekhar Jogawade</h1>
 <h3 align="center">I am Looking for a Data/Business Analyst position in India or United Kingdom</h3>
 
