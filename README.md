@@ -70,6 +70,8 @@
 | Project Link | Area of Analysis | Project Description | 
 |---|---|---|
 | 💻 [SQL - Music Store Data Analysis](https://github.com/shekharj21/SQL_Music_Data_Analysis) | We have Answered the simple/advanced questions in this project. Question and answers are available in music.Sql file. | PostgreSQL , PH Admin|
+| 💻 [SQL - Indian census Year 2011](https://github.com/shekharj21/SQL-Indian_census2011) |we have a datsets which contains the census information of year 2011. The Dataset Contains the information like District, State , growth, Sex ratio, Literacy. we have analyzed the data to get the possible details out of the dataset. | Microsoft SQL Sever|
+
 
 ***
 
