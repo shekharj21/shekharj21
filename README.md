@@ -82,7 +82,8 @@
 
 | Project Link | Project Description | Dashboard Link |
 |---|---|---|
-|[PWC Power BI Project](https://github.com/shekharj21/PWC-Power-BI-Project) |I performed thorough competitor analysis on video game sales data from 1994 to 2010. The resulting dashboard provides insights into Playstation,Xbox and Nintendo sales trends, platform popularity, and top games/genres.|[Tableau Dashboard](https://github.com/shekharj21/PWC-Power-BI-Project)|
+|[PWC Power BI Project](https://github.com/shekharj21/PWC-Power-BI-Project) |Demonstrated expertise in data visualization through the creation of Power BI dashboards that effectively conveyed KPIs, showcasing the ability to respond to client requests with well-designed solutions.Strong communication skills reflected in the concise and informative email communication with engagement partners, delivering valuable insights and actionable suggestions based on data analysis.|Power BI,Sales,Human Resourse|
+|[Power BI Heart Disease Analysis Project](https://github.com/shekharj21/Power_BI-Heart_disease_Analysis.) |I performed Detailed Analysys of Heart Disease Dashboard. In which, i have shwon correlation of how cholestrol and high blood pressure is realted to the heart Disease.|Power BI, HealthCare|
 
 ***
 ## Acknowledgment
