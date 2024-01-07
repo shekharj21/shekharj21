@@ -4,9 +4,7 @@
 
 <h3 align="left">👨🏻‍💻 About Me:</h3>
 
-Highly motivated Software and Machine Learning Engineer, driven by a passion for coding, open to learning new technologies, and committed to completing all tasks given with diligence and hard work. My dedication to the latter has been demonstrated throughout my academic journey, research endeavours, and work experience. My keen interest lies in AI, Machine Learning, and Deep Learning, with a particular focus on Computer Vision.
-
-In my senior year, I focused my research on medical image captioning using Deep Learning approaches and models. This work was a part of my thesis and also tied to my involvement in the 2022 ImageCLEFmedical campaign, where I led the Caption Prediction Task. I'm proud to share that my implemented systems ranked 2nd out of 10 teams based on the primary evaluation metric and 1st based on the secondary metric.
+I am working as a Data Engineer. I develop many data engineering projects using the below tools and frameworks. I always start working on the projects and jobs with a can-do approach. I always learn the best practices to increase efficiency and apply them while handling the tasks. I am a strong believer of sustainability and we, as data engineers, should complete the tasks as sustainable as possible. I also believe that theoretical part of the data is quite important. That's why I always learn and keep myself up-to-date about the principles of distributed computing, big data applications, how to handle the streaming data, scheduling/orchestrating the pipelines, working principles of cloud environments and many other topics. While doing those, I also develop myself in coding especially at Python and SQL. I create many complicated Python scripts as well as many SQL queries. You can find lots of data engineering projects here, welcome to my GitHub :)
 
 <h3>🚀Skills</h3>
 
