@@ -16,8 +16,7 @@ I am working as a Data Engineer. I develop many data engineering projects using 
 
 <h2 align="left">📩 Reach me at <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> :</h2>
 
-<a href = 'https://www.linkedin.com/in/gustavofer'> <img width = '32px' align= 'center' src="[https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"](https://www.linkedin.com/in/shekhar-jogawade-80394016b/)/></a> 
-<a href = 'https://www.gmail.com'> <img width = '32px' align= 'center' src="[https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg](https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/37/65/24/376524a1-5644-643c-17a6-04f3f938a63f/logo_gmail_2020q4_color-0-1x_U007emarketing-0-0-0-6-0-0-0-0-85-220-0.png/1200x600wa.png)"/></a>  
+<a href = '[https://www.linkedin.com/in/gustavofer](https://www.linkedin.com/in/shekhar-jogawade-80394016b/)'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a>
 
 ------------
 
