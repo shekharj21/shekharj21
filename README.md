@@ -14,9 +14,11 @@ I am working as a Data Engineer. I develop many data engineering projects using 
 
 <!-- <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=zaaachos"/> -->
 
-<h2 align="left">📩 Reach me at:</h2>
+<h2 align="left">📩 Reach me at <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> :</h2>
 
-[![Linkedin Badge](https://img.shields.io/badge/giorgos_zachariadis-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://[www.linkedin.com/in/gzachariadis/](https://www.linkedin.com/in/shekhar-jogawade-80394016b/))](https://www.linkedin.com/in/gzachariadis) [![E-mail Badge](https://img.shields.io/badge/zachariadisg@yahoo.com-430297?style=for-the-badge&logo=yahoo&logoColor=white)](mailto:jogawade.shekhar25@gmail.com) 
+<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
+<a href = 'https://www.linkedin.com/in/gustavofer'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
+<a href = 'https://www.github.com/nGustavin'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>  
 
 ------------
 
