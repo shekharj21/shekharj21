@@ -1,31 +1,88 @@
-<!-- Intro -->
-
-<!--<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hey!+I+am+Dogukan+👋;I+am+an+enthusiastic+Data+Engineer"></a>
-</p>-->
-
-<img align="center" src="https://user-images.githubusercontent.com/62502140/141346916-1f6a0b40-8f97-4f8d-9e80-5a12bf11dbf2.gif" width="1000px">
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
-</p>
-
-
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;My+name+is+Shekhar;I'm+Data+Analyst/Data+Engineer...;Nice+to+meet+you!&center=true&size=30&font=Rubik+Glitch">
-  </a>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1643515023/10521/meow_code.gif?1643515023" width="30"/> Hey there!
+<img src="https://github.com/shekharj21" alt="shekharj21" /> 
 </h1>
 
-<h3 align="center">Hi! I'm Shekhar</h3>
-<h3 align="center">Certified Data Analyst & Data Engineer</h3>
+<h3 align="left">👨🏻‍💻 About Me:</h3>
 
-<h3 align="center">About Me :</h3>  
- <p>
-<div align="center">
-<br>  i am a Experienced Data Analyst And Aspring Data Engineer. I develop many data engineering projects using the below tools and frameworks. I always start working on the projects and jobs with a can-do approach. I always learn the best practices to increase efficiency and apply them while handling the tasks. I am a strong believer of sustainability and we, as data engineers, should complete the tasks as sustainable as possible. I also believe that theoretical part of the data is quite important. That's why I always learn and keep myself up-to-date about the principles of distributed computing, big data applications, how to handle the streaming data, scheduling/orchestrating the pipelines, working principles of cloud environments and many other topics. While doing those, I also develop myself in coding especially at Python and SQL. I create many complicated Python scripts as well as many SQL queries. You can find lots of data engineering projects here, welcome to my GitHub :)
-</div>
- </p>
+Highly motivated Software and Machine Learning Engineer, driven by a passion for coding, open to learning new technologies, and committed to completing all tasks given with diligence and hard work. My dedication to the latter has been demonstrated throughout my academic journey, research endeavours, and work experience. My keen interest lies in AI, Machine Learning, and Deep Learning, with a particular focus on Computer Vision.
+
+In my senior year, I focused my research on medical image captioning using Deep Learning approaches and models. This work was a part of my thesis and also tied to my involvement in the 2022 ImageCLEFmedical campaign, where I led the Caption Prediction Task. I'm proud to share that my implemented systems ranked 2nd out of 10 teams based on the primary evaluation metric and 1st based on the secondary metric.
+
+<h3>🚀Skills</h3>
+
+<table class="SkillTable">
+  <thead>
+    <tr>
+      <th>Skill Level</th>
+      <th>Languages/Tools/Platforms/Frameworks</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Proficient</td>
+      <td><img alt="Python" src="https://img.shields.io/badge/Python-white?style=for-the-badge&logo=python" />
+          <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+          <img alt="NumPy" src="https://img.shields.io/badge/NumPy-0040ff?style=for-the-badge&logo=numpy&logoColor=white" />
+          <img alt="Pandas" src="https://img.shields.io/badge/pandas-00ff00?style=for-the-badge&logo=pandas&logoColor=ff0080" />
+          <img alt="Android Studio" src="https://img.shields.io/badge/android_studio-596ca6?style=for-the-badge&logo=androidstudio&logoColor=00cc66" />
+          <img alt="Tensorflow" src="https://img.shields.io/badge/tensorflow-red?style=for-the-badge&logo=tensorflow&logoColor=ff6600" />
+          <img alt="scikit-learn" src="https://img.shields.io/badge/scikit_learn-b38f00?style=for-the-badge&logo=scikitlearn&logoColor=9999ff" />
+      </td>
+    </tr>
+    <tr>
+      <td>Experienced</td>
+      <td><img alt="SQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+          <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" />
+          <img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+          <img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+          <img alt="Pytorch" src="https://img.shields.io/badge/Pytroch-ff8533?style=for-the-badge&logo=pytorch&logoColor=ff0000" />
+         <img alt="Git" src="https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git&logoColor=white" />
+          <img alt="scipy" src="https://img.shields.io/badge/scipy-003380?style=for-the-badge&logo=scipy&logoColor=66a3ff" />
+          <img alt="Matplotlib" src="https://img.shields.io/badge/matplotlib-596ca6?style=for-the-badge&logo=matplot&logoColor=ff0080" />
+        <img alt="R" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
+          <img alt="Selenium" src="https://img.shields.io/badge/selenium-003380?style=for-the-badge&logo=selenium&logoColor=b3b3b3" />
+          <img alt="Jsoup/BeautifulSoup" src="https://img.shields.io/badge/jsoup/bs4-ffccff?style=for-the-badge&logo=bs4&logoColor=800080" />
+          <img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
+          <img alt="Latex" src="https://img.shields.io/badge/LaTeX-593D88?style=for-the-badge&logo=latex&logoColor=white" />
+          <img alt="MIPS32" src="https://img.shields.io/badge/MIPS32-593D88?style=for-the-badge&logo=MIPS32&logoColor=white" />
+      </td>
+    </tr>
+    <tr>
+      <td>Familiar</td>
+      <td><img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+          <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+          <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+          <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" /> 
+          <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+          <img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=zaaachos"/> -->
+
+<h2 align="left">📩 Reach me at:</h2>
+
+[![Linkedin Badge](https://img.shields.io/badge/giorgos_zachariadis-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gzachariadis/)](https://www.linkedin.com/in/gzachariadis) [![E-mail Badge](https://img.shields.io/badge/zachariadisg@yahoo.com-430297?style=for-the-badge&logo=yahoo&logoColor=white)](mailto:zachariadisg@yahoo.com) 
+
+------------
+
+<details>
+  <summary>📊 GitHub stats </summary>
+  
+  
+  
+  ![zaaachos' GitHub stats](https://github-readme-stats.vercel.app/api?username=zaaachos&show_icons=true&theme=tokyonight)
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zaaachos)](https://github.com/zaaachos/github-readme-stats)
+
+</details>
+
+
+
+
+
 
 <!-- Socials --> 
 
