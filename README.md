@@ -25,9 +25,9 @@ I am working as a Data Engineer. I develop many data engineering projects using 
   
   
   
-  ![zaaachos' GitHub stats](https://github-readme-stats.vercel.app/api?username=zaaachos&show_icons=true&theme=tokyonight)
+  ![zaaachos' GitHub stats](https://github-readme-stats.vercel.app/api?username=shekharj21_icons=true&theme=tokyonight)
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zaaachos)](https://github.com/zaaachos/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zaaachos)](https://github.com/shekharj21/github-readme-stats)
 
 </details>
 
