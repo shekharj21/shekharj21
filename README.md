@@ -1,91 +1,70 @@
-![logo](https://images.unsplash.com/photo-1488229297570-58520851e868?q=80&w=2069&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
-<h1 align="center">Hi 👋, I'm Shekhar Jogawade</h1>
-<h3 align="center">I am Looking for a Data/Business Analyst position in India or United Kingdom</h3>
+<!-- Intro -->
 
-<img align="right" alt="2img" width="400" src="https://media.geeksforgeeks.org/wp-content/uploads/20230814154946/Data-Analyst.png">
+<!--<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hey!+I+am+Dogukan+👋;I+am+an+enthusiastic+Data+Engineer"></a>
+</p>-->
 
-- 👨‍💻 All of my projects are available at [https://github.com/shekharj21](https://github.com/shekharj21)
+<h3 align="center">Hi! I'm Shekhar</h3>
+<h3 align="center">Certified Data Analyst & Data Engineer</h3>
 
-- See My Personal Portfolio Website at [https://jogawadeshekhar123.wixsite.com/my-site-1](https://jogawadeshekhar123.wixsite.com/my-site-1)
+<h3 align="center">About Me :</h3>  
+ <p>
+<div align="center">
+<br>  i am a Experienced Data Analyst And Aspring Data Engineer. I develop many data engineering projects using the below tools and frameworks. I always start working on the projects and jobs with a can-do approach. I always learn the best practices to increase efficiency and apply them while handling the tasks. I am a strong believer of sustainability and we, as data engineers, should complete the tasks as sustainable as possible. I also believe that theoretical part of the data is quite important. That's why I always learn and keep myself up-to-date about the principles of distributed computing, big data applications, how to handle the streaming data, scheduling/orchestrating the pipelines, working principles of cloud environments and many other topics. While doing those, I also develop myself in coding especially at Python and SQL. I create many complicated Python scripts as well as many SQL queries. You can find lots of data engineering projects here, welcome to my GitHub :)
+</div>
+ </p>
 
-- 💬 Ask me about **Python, Machine Learning, SQL, Power BI, Microsoft Excel Etc**
+<!-- Socials --> 
 
-- 📫 How to reach me **jogawade.shekhar123@gmail.com**
+<h3 align="center">Connect with me:</h3>  
+<div align="center">
+<a href="https://www.linkedin.com/in/dogukanulu/" target="blank">
+<img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png" style="height: 3rem"/>
+</a>
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/shekhar-jogawade-80394016b/](https://www.linkedin.com/in/shekhar-jogawade-80394016b/)
+<a href="https://medium.com/@dogukannulu" target="blank">
+<img src="https://cdn4.iconfinder.com/data/icons/social-media-circle-7/512/Medium_circle-512.png" style="height: 3rem; background-color:white"/>
+</a>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/shekhar-jogawade-80394016b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shekhar-jogawade-80394016b/" height="30" width="40" /></a>
-<a href="https://fb.com/shekhar jogawade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shekhar jogawade" height="30" width="40" /></a>
-<a href="https://instagram.com/shekharrrr7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shekharrrr7" height="30" width="40" /></a>
+<a href="mailto:dogukannulu@gmail.com" target="blank">
+<img src="img/mail.png" style="height: 3rem"/>
+</a>
+
+<a href="https://dogukanulu.dev/" target="blank">
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Eo_circle_blue_letter-d.svg" style="height: 3rem"/>
+</a>
+
+<a href="https://www.upwork.com/freelancers/~01e24ff1511cbf7aea" target="blank">
+<img src="https://www.svgrepo.com/show/331630/upwork.svg" style="height: 3rem"/>
+</a>
+
+</div>
+
+<!-- Tech Stack --> 
+
+<h3 align="Center">Tech Stack:</h3>  
+<p align="center">
+<a href="https://www.python.org/" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/1508/PNG/512/python_104451.png" alt="python"  style="height: 3rem"/> </a>
+<a href="https://tr.wikipedia.org/wiki/SQL" target="_blank"> <img src="https://img.icons8.com/external-bearicons-blue-bearicons/512/external-SQL-file-extension-bearicons-blue-bearicons.png" alt="sql"  style="height: 3rem"/> </a>
+<a href="https://aws.amazon.com/" target="_blank"> <img src="https://img.icons8.com/color/512/amazon-web-services.png" alt="aws"  style="height: 3rem"/> </a>
+<a href="https://cloud.google.com/" target="_blank"> <img src="https://www.sophos.com/sites/default/files/2022-02/googlecloud.png" alt="metabase"  style="height: 3rem"/> </a>
+<a href="https://spark.apache.org/" target="_blank"> <img src="https://ignos.blog/wp-content/uploads/2022/06/apachesparklogo-e1655475818894.png" alt="spark"  style="height: 3rem"/> </a>
+<a href="https://www.snowflake.com/en/" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/snowflake_logo_icon_167979.png" alt="snowflake"  style="height: 3rem"/> </a>
+<a href="https://kafka.apache.org/" target="_blank"> <img src="https://icons-for-free.com/iconfiles/png/512/apache+kafka-1331550886393441357.png" alt="kafka"  style="height: 3rem"/> </a>
+<a href="https://airflow.apache.org/" target="_blank"> <img src="https://www.svgrepo.com/show/353380/airflow.svg" alt="airflow"  style="height: 3rem"/> </a>
+<a href="https://www.docker.com/" target="_blank"> <img src="https://img.icons8.com/color/512/docker.png" alt="docker"  style="height: 3rem"/> </a>
+<a href="https://www.postgresql.org/" target="_blank"> <img src="https://img.icons8.com/color/512/postgreesql.png" alt="postgresql"  style="height: 3rem"/> </a>
+<a href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/color/512/mysql-logo.png" alt="mysql"  style="height: 3rem"/> </a>
+<a href="https://hadoop.apache.org/" target="_blank"> <img src="https://img.icons8.com/color/512/hadoop-distributed-file-system.png" alt="hadoop"  style="height: 3rem"/> </a>
+<a href="https://www.getdbt.com/" target="_blank"> <img src="https://seeklogo.com/images/D/dbt-logo-500AB0BAA7-seeklogo.com.png" alt="dbt"  style="height: 3rem"/> </a>
+<a href="https://cassandra.apache.org/_/index.html" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Cassandra_logo.svg" alt="cassandra"  style="height: 3rem"/> </a>
+<a href="https://www.elastic.co/" target="_blank"> <img src="https://img.icons8.com/color/512/elasticsearch.png" alt="elasticsearch"  style="height: 3rem"/> </a>
+<a href="https://lookerstudio.google.com/" target="_blank"> <img src="https://www.svgrepo.com/show/354012/looker-icon.svg" alt="looker"  style="height: 3rem"/> </a>
+<a href="https://www.metabase.com/" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/metabase_logo_icon_170959.png" alt="metabase"  style="height: 3rem"/> </a>
+<a href="https://www.mongodb.com/" target="_blank"> <img src="https://www.opc-router.de/wp-content/uploads/2021/03/mongodb_thumbnail.png" alt="mongodb"  style="height: 3rem"/> </a>
+<a href="https://www.terraform.io/" target="_blank"> <img src="https://ms-devlabs.gallerycdn.vsassets.io/extensions/ms-devlabs/custom-terraform-tasks/0.1.23/1692742494795/Microsoft.VisualStudio.Services.Icons.Default" alt="terraform"  style="height: 3rem"/> </a>
+<a href="https://flink.apache.org/" target="_blank"> <img src="https://d1q6f0aelx0por.cloudfront.net/product-logos/library-flink-logo.png" alt="flink"  style="height: 3rem"/> </a>
+<a href="https://www.jenkins.io/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Jenkins_logo.svg" alt="jenkins"  style="height: 3rem"/> </a>
+<a href="https://kubernetes.io/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/labs/b/ba/Kubernetes-icon-color.svg" alt="kubernetes"  style="height: 3rem"/> </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.scala-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
-## 📚 Table of Contents
-- [Complete Data Analysis Projects](#complete-data-analysis-projects)
-- [Microsoft Excel](#microsoft-excel)
-- [Python](#python)
-- [SQL](#sql)
-- [Tableau](#tableau)
-
-
-
-***
-# Complete Data Analysis Projects
-
-| Project Link | Completion Date | Tools | Project Description | 
-|---|---|---|---|
-| 🤑 [Insurance fraud Detection with income prediction](https://github.com/shekharj21/Insurance-Fraud-detection-with-Income-Prediction) | jan 2022 - jan 2023 | Python, Machine learning | It was My final year projct when i was persuing Msc in data Analytics from Aston university. i got a chance to work with industry professionals to implement this project. We first worked on a Ml model to find out fraudulent claims made by the customer and in the second part we focused on finding the income of customers to be targeted by the company for promotional offers.|
-| 🤑 [Google Play Store Apps Rating Prediction](https://github.com/shekharj21/Google_play_Store_Ratings_Prediction) | June 2023 | Python, Machine learning | This Project includes a detailed jupyter notebook with explanation of Google play store apps rating Prediction. We used Both regression and Classifiction methods to get the best outcome using trial and error method.|
-| 🤑 [NLP - Cutomer Review Analysis from a large dataset](https://github.com/shekharj21/NLP_Clothing-product_Review) | April 2023 | Python, Machine learning |We have used natural Language Processing to implement the sentiment analysis. We have Searched for top words from customer reviews to understand the sentiment of the review posted by the customer.|
-
-
-
-***
-
-
-***
-# Microsoft Excel
-| Project Link | Completion Date | Tools | Project Description | 
-|---|---|---|---|
-| 📈 [Amazon Stock Analysis in Excel](https://github.com/shekharj21/MS_Excel_Amazon_Stock_Analysis) | Sep 2023 | Microsoft Excel | Acquired valuable techniques such as EDA with pivot tables, Advanced Logical functions, What if Analysis and Forecasting to make informed decisions and uncover hidden insights within data. |
-
-
-
-***
-
-# Python
-
-| Project Link | Area | Project Description | Libraries |    
-|---|---|---|---|
-| 👩🏻‍💻 [Real life customer Churn Reason Detection & Solution](https://github.com/Mabrar92/Python-CS50-Solutions) | Programming | This repo contains the solution to the problem sets in [Harvardx CS50P Introduction to Programming with Python](https://www.edx.org/course/cs50s-introduction-to-programming-with-python). | pandas,numpy,Matplotlib | 
-| 🧹 [Israel vs palestine Fatilities from year 2000-2023](https://github.com/shekharj21/IsraelVsPalestine_Fatilities_from2000-2023) | Data Preprocessing & Data Cleaning, EDA | This jupyter notebook shows the fatilities recorded of the conflicts between israel and Palestine from year 2000-2023. i have represented all types of distribution such as gender, nationality, age etc. | Pandas,numpy, scikit,matplotlib |   
-
-
-
-***
-
-# SQL
-
-| Project Link | Area of Analysis | Project Description | 
-|---|---|---|
-| 💻 [SQL - Music Store Data Analysis](https://github.com/shekharj21/SQL_Music_Data_Analysis) | We have Answered the simple/advanced questions in this project. Question and answers are available in music.Sql file. | PostgreSQL , PH Admin|
-| 💻 [SQL - Indian census Year 2011](https://github.com/shekharj21/SQL-Indian_census2011) |we have a datsets which contains the census information of year 2011. The Dataset Contains the information like District, State , growth, Sex ratio, Literacy. we have analyzed the data to get the possible details out of the dataset. | Microsoft SQL Sever|
-
-
-***
-
-
-# POWER BI
-
-| Project Link | Project Description | Dashboard Link |
-|---|---|---|
-|[PWC Power BI Project](https://github.com/shekharj21/PWC-Power-BI-Project) |Demonstrated expertise in data visualization through the creation of Power BI dashboards that effectively conveyed KPIs, showcasing the ability to respond to client requests with well-designed solutions.Strong communication skills reflected in the concise and informative email communication with engagement partners, delivering valuable insights and actionable suggestions based on data analysis.|Power BI,Sales,Human Resourse|
-|[Power BI Heart Disease Analysis Project](https://github.com/shekharj21/Power_BI-Heart_disease_Analysis.) |I performed Detailed Analysys of Heart Disease Dashboard. In which, i have shwon correlation of how cholestrol and high blood pressure is realted to the heart Disease.|Power BI, HealthCare|
-
-***
-## Acknowledgment
-Thanks to [Katie Huang](https://github.com/katiehuangx) for her great guide to making this portfolio.
-***
