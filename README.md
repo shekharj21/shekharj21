@@ -69,10 +69,7 @@ I am working as a Data Engineer. I develop many data engineering projects using 
 <a href="https://www.getdbt.com/" target="_blank"> <img src="https://seeklogo.com/images/D/dbt-logo-500AB0BAA7-seeklogo.com.png" alt="dbt"  style="height: 3rem"/> </a>
 <a href="https://cassandra.apache.org/_/index.html" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Cassandra_logo.svg" alt="cassandra"  style="height: 3rem"/> </a>
 <a href="https://www.elastic.co/" target="_blank"> <img src="https://img.icons8.com/color/512/elasticsearch.png" alt="elasticsearch"  style="height: 3rem"/> </a>
-<a href="https://lookerstudio.google.com/" target="_blank"> <img src="https://www.svgrepo.com/show/354012/looker-icon.svg" alt="looker"  style="height: 3rem"/> </a>
-<a href="https://www.metabase.com/" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/metabase_logo_icon_170959.png" alt="metabase"  style="height: 3rem"/> </a>
 <a href="https://www.mongodb.com/" target="_blank"> <img src="https://www.opc-router.de/wp-content/uploads/2021/03/mongodb_thumbnail.png" alt="mongodb"  style="height: 3rem"/> </a>
-<a href="https://www.terraform.io/" target="_blank"> <img src="https://ms-devlabs.gallerycdn.vsassets.io/extensions/ms-devlabs/custom-terraform-tasks/0.1.23/1692742494795/Microsoft.VisualStudio.Services.Icons.Default" alt="terraform"  style="height: 3rem"/> </a>
 
 </p>
 
