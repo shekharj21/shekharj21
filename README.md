@@ -21,7 +21,7 @@ I am working as a Data Engineer. I develop many data engineering projects using 
 ------------
 
 <details>
-  <summary>📊 GitHub stats </summary>
+  <h2>📊 GitHub stats </h2>
   
   
   
