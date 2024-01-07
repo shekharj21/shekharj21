@@ -1,5 +1,5 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1643515023/10521/meow_code.gif?1643515023" width="30"/> Hey there!
-<img src="https://github.com/shekharj21" alt="shekharj21" /> 
+<img src="https://komarev.com/ghpvc/?username=zaaachos" alt="zaaachos" /> 
 </h1>
 
 <h3 align="left">👨🏻‍💻 About Me:</h3>
