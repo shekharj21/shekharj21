@@ -20,16 +20,13 @@ I am working as a Data Engineer. I develop many data engineering projects using 
 
 ------------
 
-<details>
+
   <h2>📊 GitHub stats </h2>
-  
-  
-  
   ![zaaachos' GitHub stats](https://github-readme-stats.vercel.app/api?username=shekharj21&show_icons=true&theme=tokyonight)
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zaaachos)](https://github.com/shekharj21/github-readme-stats)
 
-</details>
+
 
 
 
