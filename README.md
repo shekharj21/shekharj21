@@ -4,6 +4,19 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hey!+I+am+Dogukan+👋;I+am+an+enthusiastic+Data+Engineer"></a>
 </p>-->
 
+<img align="center" src="https://user-images.githubusercontent.com/62502140/141346916-1f6a0b40-8f97-4f8d-9e80-5a12bf11dbf2.gif" width="1000px">
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+</p>
+
+
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;My+name+is+Shekhar;I'm+Data+Analyst/Data+Engineer...;Nice+to+meet+you!&center=true&size=30&font=Rubik+Glitch">
+  </a>
+</h1>
+
 <h3 align="center">Hi! I'm Shekhar</h3>
 <h3 align="center">Certified Data Analyst & Data Engineer</h3>
 
