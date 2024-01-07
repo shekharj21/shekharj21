@@ -24,7 +24,7 @@
 
 
 <a href="mailto:jogawade.shekhar25@gmail.com" target="blank">
-<img src="img/mail.png" style="height: 3rem"/>
+<img src="[img/mail.png](https://www.google.com/imgres?imgurl=https%3A%2F%2Fplay-lh.googleusercontent.com%2FKSuaRLiI_FlDP8cM4MzJ23ml3og5Hxb9AapaGTMZ2GgR103mvJ3AAnoOFz1yheeQBBI&tbnid=p0BwJ0uiMmavoM&vet=12ahUKEwj58qvossyDAxVGUWwGHfr7B8UQMygDegQIARA4..i&imgrefurl=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.google.android.gm%26hl%3Den_US&docid=r4FMRStPB37O9M&w=512&h=512&q=gmail%20photo&client=firefox-b-d&ved=2ahUKEwj58qvossyDAxVGUWwGHfr7B8UQMygDegQIARA4)" style="height: 3rem"/>
 </a>
 
 
