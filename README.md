@@ -23,7 +23,7 @@ I am working as a Data Engineer. I develop many data engineering projects using 
 
   <h2>📊 GitHub stats </h2>
  
-  ![Shekhar's GitHub stats](https://github-readme-stats.vercel.app/api?username=zaaachos&show_icons=true&theme=tokyonight)
+  ![Shekhar's GitHub stats](https://github-readme-stats.vercel.app/api?username=shekharj21&show_icons=true&theme=tokyonight)
   
 
 
